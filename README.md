@@ -7,7 +7,7 @@ This project is a dynamic-learning chatbot designed for a teams internal webpage
 ## Features
 
 - **Proactive Engagement:**  
-  The chatbot automatically pops up after 10 seconds of inactivity on the webpage, simulating a helpful assistant.
+  For this demo, the chatbot activates after 10 seconds of inactivity to simulate a proactive, helpful assistant—whereas in the standard release, it typically waits 45–60 seconds before appearing.
 
 - **Interactive Chat Interface:**  
   A user-friendly interface built with HTML, CSS, and JavaScript is embedded into a Streamlit app. Users can type questions, receive simulated intelligent responses, and provide feedback via thumbs up/down buttons.
