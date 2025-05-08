@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0%20International-blue.svg)
+
 # ML-Project-2: Dynamic Learning Chatbot
 
 ## Overview
