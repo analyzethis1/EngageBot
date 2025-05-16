@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.title("PMO Chatbot Demo")
+st.title("Chatbot Demo")
 
 html_content = """
 <!DOCTYPE html>
