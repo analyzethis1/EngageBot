@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0%20International-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # EngageBot: Dynamic Learning Chatbot
 
