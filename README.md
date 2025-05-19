@@ -43,8 +43,8 @@ This project is a dynamic-learning chatbot designed for a teams internal webpage
 
 **Step 1: Clone the Repository**
 
-git clone https://github.com/your-username/ML-Project-2.git
-cd ML-Project-2
+git clone https://github.com/your-username/EngageBot.git
+cd EngageBot
 
 **Step 2: (Optional) Run Locally**
 
@@ -64,7 +64,7 @@ streamlit run chatbot.py
 
 from google.colab import drive
 drive.mount('/content/drive')
-%cd /content/drive/MyDrive/ML-Project-2
+%cd /content/drive/MyDrive/EngageBot
 
 3. **Install Dependencies**:
 
